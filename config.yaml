@@ -4,7 +4,8 @@ title: "Ningxin Su's Personal Website"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles:
+  ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
@@ -16,21 +17,13 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
+    - name: Publications
+      url: "publications/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
-    - name: Tags
-      url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
   description: "Personal Website for Ningxin Su"
-  footer: "&copy; [Ningxin Su](https://ningxinsu.github.io) 2023 -- {Year} | [Github](https://github.com/NingxinSu) "
+  footer: "&copy; [Ningxin Su](https://ningxinsu.github.io) 2022 -- {Year} | [GitHub](https://github.com/NingxinSu) "
 
 markup:
   highlight:
