@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
+summaryLength = 30
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -9,17 +10,17 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 6
   # Enable to show reading time in minutes for posts
   showReadingTime = false
 
 [languages]
   [languages.en]
     title = "Ningxin Su"
-    subtitle = "The website"
+    subtitle = ""
     keywords = ""
     copyright = "Ningxin Su &copy; 2023"
-    menuMore = "Show more"
+    menuMore = "More"
     writtenBy = "Written by"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -29,20 +30,40 @@ paginate = 5
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
 
-    [languages.en.params.logo]
-      logoText = "Ningxin Su"
-      logoHomeLink = "/"
-    # or
-    #
+    [params.logo]
+    logoText = "Ningxin Su"
+    logoHomeLink = "/"
     # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    # alt = "Ningxin Su"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
+    [menu]
+      [[menu.main]]
+          identifier = "about"
+          weight = 1
+          name = "About"
+          url = "/about"
+      [[menu.main]]
         identifier = "publications"
+        weight = 2
         name = "Publications"
-        url = "/publications"
+        url = "/publications"      
+      [[menu.main]]
+        identifier = "teaching"
+        weight = 3
+        name = "Teaching"
+        url = "/teaching"
+      [[menu.main]]
+        identifier = "volunteers"
+        weight = 4
+        name = "Volunteers"
+        url = "/volunteers"
+      [[menu.main]]
+        identifier = "bio"
+        weight = 5
+        name = "Bio & CV"
+        url = "/bio"
+      [[menu.main]]
+        identifier = "contact"
+        weight = 6
+        name = "Contact"
+        url = "/contact"
