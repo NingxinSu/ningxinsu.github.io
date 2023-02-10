@@ -38,32 +38,12 @@ summaryLength = 30
 
     [menu]
       [[menu.main]]
-          identifier = "about"
-          weight = 1
-          name = "About"
-          url = "/about"
-      [[menu.main]]
-        identifier = "publications"
-        weight = 2
-        name = "Publications"
-        url = "/publications"      
-      [[menu.main]]
-        identifier = "teaching"
-        weight = 3
+        identifier = "Teaching"
+        weight = 1
         name = "Teaching"
         url = "/teaching"
       [[menu.main]]
-        identifier = "volunteers"
-        weight = 4
-        name = "Volunteers"
-        url = "/volunteers"
-      [[menu.main]]
-        identifier = "bio"
-        weight = 5
-        name = "Bio & CV"
-        url = "/bio"
-      [[menu.main]]
-        identifier = "contact"
-        weight = 6
-        name = "Contact"
-        url = "/contact"
+        identifier = "Professional Services"
+        weight = 2
+        name = "Professional Services"
+        url = "/professional_services"
