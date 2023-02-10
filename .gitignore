@@ -2,3 +2,4 @@ resources
 .hugo_build.lock
 public
 themes/.DS_Store
+assets/.DS_Store
