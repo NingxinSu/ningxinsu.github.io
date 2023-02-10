@@ -4,17 +4,17 @@ framed = true
 +++
 
 <!--{{< image src="/assets/baochun-may2011-web.jpg" alt="Ningxin Su" position="center" style="border-radius: 8px;" >}}-->
-Contact information: ningxin.su@mail.utoronto.ca  
+Contact information: ningxin.su@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en)  
 Current location: Toronto, Canada  
 
 ## At a Glance
 
-I am currently a third-year Ph.D. student in the [Computer Engineering](https://www.eecg.utoronto.ca/) group, [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca). I received her M.E. Degree and B.E. Degree from [The University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research area includes **distributed machine learning**, **federated learning** and **networking**.
+I am currently a third-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in [iQua research group](https://iqua.ece.toronto.edu/). I received her M.E. Degree and B.E. Degree from [The University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research area includes **distributed machine learning**, **federated learning** and **networking**.
 
 [Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of February 2023.
 
 ### Publications
-1. **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [Presentation Slides](/assets/iwqos22_slides.key)
+1. **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. ([Presentation Slides](/assets/iwqos22_slides.key))
 
 2. **Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023.
 
