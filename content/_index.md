@@ -3,7 +3,7 @@ title = "Ningxin Su"
 framed = true
 +++
 
-<!--{{< image src="/assets/baochun-may2011-web.jpg" alt="Ningxin Su" position="center" style="border-radius: 8px;" >}}-->
+{{< image src="/assets/ningxinsu.png" alt="Ningxin Su" width="2" height="2" position="center" style="border-radius: 20px;"  >}}
 Contact info: ningxin.su@mail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/ningxin-su-b11460264/)   
 Current location: Toronto, Canada  
 
