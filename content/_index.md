@@ -5,7 +5,7 @@ framed = true
 
 {{< rawhtml >}}
 <center>
-<img src="/assets/ningxinsu.png" alt="Ningxin Su" width="70%" style="border-radius: 20px;" >
+<img src="/assets/ningxinsu.jpg" alt="Ningxin Su" width="70%" style="border-radius: 20px;" >
 </center>
 {{< /rawhtml >}}
 
