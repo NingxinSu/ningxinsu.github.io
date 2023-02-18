@@ -19,13 +19,13 @@ I am currently a third-year Ph.D. student in the [Department of Electrical and C
 [Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of February 2023.
 
 ### Publications
-1. **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.key)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
+**Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.key)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
 
-2. **Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
+**Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
 
-3. **Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” submitted to IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), Kyoto, Japan, June 26 – 28, 2023.
+**Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” submitted to IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), Kyoto, Japan, June 26 – 28, 2023.
 
-4. **Ningxin Su**, Baochun Li, Bo Li. “Port: Towards Staleness-Aware Asynchronous Federated Learning with Fast Convergence,” submitted to IEEE Transactions on Cloud Computing.
+**Ningxin Su**, Baochun Li, Bo Li. “Port: Towards Staleness-Aware Asynchronous Federated Learning with Fast Convergence,” submitted to IEEE Transactions on Cloud Computing.
 
 ## About me 
 Meet Ningxin &mdash; a multi-faceted individual with a passion for the arts, sports, and knowledge. With experience conducting a large choir, drumming in a rock band, and teaching dance, Ningxin showcases a deep love for music and movement. As an accomplished long-distance runner, Ningxin is always eager to try new sports and physical challenges. Ningxin is also known for managing large-scale teams, bringing people together to create memorable experiences. In addition, Ningxin is an avid traveler, seeking out new museums, cultures, and natural wonders. Ningxin's true passion, however, lies in the field of **distributed machine learning**, with a focus on **federated learning** and **networking**. Whether on stage or in the lab, Ningxin is driven to constantly learn and grow, constantly pushing oneself to new heights.

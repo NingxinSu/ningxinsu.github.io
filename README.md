@@ -13,3 +13,5 @@ hugo server
 ```
 
 Navigate the web browser to the URL displayed, such as `http://localhost:1313/`, to see the results. Press `Control + C` at the command line to stop the server.
+
+theme can be found at https://github.com/panr/hugo-theme-hello-friend.git
