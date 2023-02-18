@@ -35,15 +35,19 @@ summaryLength = 30
     logoHomeLink = "/"
     # path = "/img/your-example-logo.svg"
     # alt = "Ningxin Su"
-
+    [[menu.main]]
+        identifier = "Projects"
+        weight = 1
+        name = "Projects"
+        url = "/projects"
     [menu]
       [[menu.main]]
         identifier = "Teaching"
-        weight = 1
+        weight = 2
         name = "Teaching"
         url = "/teaching"
       [[menu.main]]
         identifier = "Professional Services"
-        weight = 2
+        weight = 3
         name = "Professional Services"
         url = "/professional_services"

@@ -4,6 +4,6 @@ title: Publications
 
 **Refereed Conference Papers**
 
-Ningxin Su, Baochun Li. &#8220;*Asynchronous Federated Unlearning,*&#8221; in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17-20, 2023.
+1. **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.key)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
 
-Ningxin Su, Baochun Li. &#8220;[How Asynchronous can Federated Learning Be?](https://iqua.ece.toronto.edu/papers/ningxinsu-iwqos22.pdf)&#8221; in the Proceedings of the 30th IEEE/ACM International Symposium on Quality of Service (IWQoS 2022), Online, June 10 &mdash; 12, 2022.</p>
+2. **Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
