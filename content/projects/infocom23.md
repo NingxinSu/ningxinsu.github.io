@@ -39,7 +39,7 @@ While existing work on federated unlearning focused on improving its performance
 
 ## BibTeX
 ```
-@inproceedings{su2023,    
+@inproceedings{knot_su2023,    
    author = {N. Su and B. Li},      
    journal = {Proc.~Int'l Conference on Computer Communications (INFOCOM)},     
    publisher = {IEEE},                 
