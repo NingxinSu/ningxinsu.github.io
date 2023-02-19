@@ -38,3 +38,14 @@ While existing work on federated unlearning focused on improving its performance
 *Table 1: Knot vs. its competitors: a comparison regarding the wall-clock times needed to converge to a target accuracy (or perplexity).*
 
 [Ningxin Su](https://ningxinsu.github.io/) is the first author of this work. It has been published in the Proceedings of [IEEE INFOCOM 2023](/papers/ningxinsu-infocom23.pdf).
+
+## BibTeX
+```
+@inproceedings{su2023,    
+   author = {N. Su and B. Li},      
+   journal = {Proc.~Int'l Conference on Computer Communications (INFOCOM)},     
+   publisher = {IEEE},                 
+   title = {Asynchronous Federated Unlearning},                
+   year = {2023},        
+}
+```
