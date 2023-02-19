@@ -5,7 +5,7 @@ weight = -9
 
 **Ningxin Su**, Baochun Li, University of Toronto,      
 *IEEE International Conference on Computer Communications (INFOCOM) 2023*    
-([Video](/projects/infocom23))([Source Code](https://github.com/TL-System/plato/tree/main/examples/knot))    
+[[Paper](/assets/infocom23.pdf)] [[Video](/projects/infocom23)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]    
 
 Thanks to regulatory policies such as the General Data Protection Regulation (GDPR), it is essential to provide users with the *right to erasure* regarding their own private data, even if such data has been used to train a neural network model. Such a *machine unlearning* problem becomes even more challenging in the context of federated learning. where clients collaborate to train a global model with their private data. When a client requests that its data be erased, its effects have already gradually permeated through a large number of clients, as the server aggregates client updates over multiple communication rounds. Thus, erasing data samples from one client requires a large number of clients to engage in a retraining process. 
 
@@ -36,8 +36,6 @@ While existing work on federated unlearning focused on improving its performance
 {{< image src="/assets/infocom23-results.png" alt="Results." position="center" style="border-radius: 8px; width: 70%" >}}
 
 *Table 1: Knot vs. its competitors: a comparison regarding the wall-clock times needed to converge to a target accuracy (or perplexity).*
-
-[Ningxin Su](https://ningxinsu.github.io/) is the first author of this work. It has been published in the Proceedings of [IEEE INFOCOM 2023](/papers/ningxinsu-infocom23.pdf).
 
 ## BibTeX
 ```
