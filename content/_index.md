@@ -23,7 +23,7 @@ I am currently a third-year Ph.D. student in the [Department of Electrical and C
 
 **Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
 
-**Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” submitted to IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), Kyoto, Japan, June 26 – 28, 2023.
+**Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023.
 
 **Ningxin Su**, Baochun Li, Bo Li. “Port: Towards Staleness-Aware Asynchronous Federated Learning with Fast Convergence,” submitted to IEEE Transactions on Cloud Computing.
 
