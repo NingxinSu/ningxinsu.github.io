@@ -16,7 +16,7 @@ Current location: Toronto, Canada
 
 I am currently a third-year Ph.D. Candidate in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in [iQua research group](https://iqua.ece.toronto.edu/). I received my M.E. and B.E. degrees from [The University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research area includes **distributed machine learning**, **federated learning** and **networking**.
 
-[Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of February 2023.
+[Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of May 2023.
 
 ### Publications
 **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.pdf)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
