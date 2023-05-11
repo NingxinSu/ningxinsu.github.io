@@ -1,7 +1,7 @@
 
 ## Winter 2022
-APS105 – Computer Fundamentals (in C): Tutorial TA
+APS105 – Computer Fundamentals (in C programming language): Tutorial TA
 
 ## Fall 2016 
-Primary School Teacher at Beijing Pingxifu Hongli Primary School (volunteer)
+Volunteer Teacher at Beijing Pingxifu Hongli Primary School (math, physic and music)
 
