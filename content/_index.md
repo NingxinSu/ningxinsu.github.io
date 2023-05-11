@@ -19,11 +19,11 @@ I am currently a third-year Ph.D. Candidate in the [Department of Electrical and
 [Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of February 2023.
 
 ### Publications
-**Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.key)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
+**Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.pdf)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
 
-**Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
+**Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Presentation Slides](/assets/infocom23_slides.pdf)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
 
-**Ningxin Su**, Baochun Li, Bo Li. “Multi-Server Stable Rendezvous for the Metaverse,” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023.
+**Ningxin Su**, Baochun Li, Bo Li. “[Multi-Server Stable Rendezvous for the Metaverse](/assets/metacom23.pdf),” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023.
 
 **Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” submitted to IEEE Journal on Selected Areas in Communications.
 
