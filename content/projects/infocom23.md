@@ -5,7 +5,7 @@ weight = -9
 
 **Ningxin Su**, Baochun Li, University of Toronto,      
 *IEEE International Conference on Computer Communications (INFOCOM) 2023*    
-[[Paper](/assets/infocom23.pdf)] [[Video](/projects/infocom23)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]    
+[[Paper](/assets/infocom23.pdf)] [[Slides](/assets/infocom23_slides.pdf)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]    
 
 Thanks to regulatory policies such as the General Data Protection Regulation (GDPR), it is essential to provide users with the *right to erasure* regarding their own private data, even if such data has been used to train a neural network model. Such a *machine unlearning* problem becomes even more challenging in the context of federated learning. where clients collaborate to train a global model with their private data. When a client requests that its data be erased, its effects have already gradually permeated through a large number of clients, as the server aggregates client updates over multiple communication rounds. Thus, erasing data samples from one client requires a large number of clients to engage in a retraining process. 
 
