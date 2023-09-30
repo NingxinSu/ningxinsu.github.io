@@ -26,7 +26,7 @@ I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical an
 
 **Ningxin Su**, Baochun Li, Bo Li. “[Multi-Server Stable Rendezvous for the Metaverse](/assets/metacom23.pdf),” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023 (**_Best Paper Award_**). [[Presentation Slides](/assets/metacom23_slides.pdf)]
 
-Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of *ACM TURC '23: Proceedings of the ACM Turing Award Celebration Conference*, Wuhan, China, July, 2023. 
+Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of *ACM Turing Award Celebration Conference (ACM TURC)*, Wuhan, China, July, 2023. 
 
 #### Journal
 **Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” in IEEE Journal on Selected Areas in Communications, Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, September 2023.
