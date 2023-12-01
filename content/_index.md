@@ -28,10 +28,10 @@ I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical an
 
 Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of *ACM Turing Award Celebration Conference (TURC)*, Wuhan, China, July, 2023. 
 
+**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “Titanic: Towards Production Federated Learning with Large Language Models,” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, 2024. 
+
 #### Journal
 **Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” in IEEE Journal on Selected Areas in Communications, Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, September 2023.
 
-## About me 
-Meet Ningxin &mdash; a multi-faceted individual with a passion for the arts, sports, and knowledge. With experience conducting a large choir, drumming in a rock band, and teaching dance, Ningxin showcases a deep love for music and movement. As an accomplished long-distance runner, Ningxin is always eager to try new sports and physical challenges. Ningxin is also known for managing large-scale teams, bringing people together to create memorable experiences. In addition, Ningxin is an avid traveler, seeking out new museums, cultures, and natural wonders. Ningxin's true passion, however, lies in the fields of **metaverse** and **distributed machine learning**, with a focus on **systems**, **networking** and **federated learning**. Whether on stage or in the lab, Ningxin strives to constantly learn, grow, and push herself to new heights.
 
 [Projects](/projects) &middot; [Teaching](/teaching) &middot; [Professional Services](/professional_services) 
