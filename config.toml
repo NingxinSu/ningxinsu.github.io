@@ -52,7 +52,7 @@ summaryLength = 30
         name = "Professional Services"
         url = "/professional_services"
       [[menu.main]]
-        identifier = "About me"
+        identifier = "About Me"
         weight = 4
-        name = "About me"
+        name = "About Me"
         url = "/about"
