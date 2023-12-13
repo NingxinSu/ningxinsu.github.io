@@ -19,7 +19,11 @@ I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical an
 [Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of Nov 2023.
 
 ## Publications
-#### Conferences  
+
+#### Journal Papers
+**Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” in IEEE Journal on Selected Areas in Communications, Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, September 2023.
+
+#### Conference Papers
 
 **Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “Titanic: Towards Production Federated Learning with Large Language Models,” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, 2024. 
 
@@ -30,9 +34,6 @@ Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Resea
 **Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Presentation Slides](/assets/infocom23_slides.pdf)][[Source Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
 
 **Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Presentation Slides](/assets/iwqos22_slides.pdf)] [[Source Code](https://github.com/TL-System/plato/tree/main/examples/port)]
-
-#### Journal
-**Ningxin Su**, Baochun Li. “MLOps in the Metaverse: Human-Centric Continuous Integration,” in IEEE Journal on Selected Areas in Communications, Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, September 2023.
 
 
 [Projects](/projects) &middot; [Teaching](/teaching) &middot; [Professional Services](/professional_services) &middot; [About Me](/about) 
