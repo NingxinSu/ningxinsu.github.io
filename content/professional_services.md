@@ -1,25 +1,23 @@
-# Reviewer
+## Organizing Committee
+**Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024.
+
+## Reviewers
 IEEE Transactions on Big Data   
  
 IEEE Transactions on Computational Social Systems   
 
 IEEE Transactions on Cloud Computing    
 
-# Student Volunteer
-## July 2023   
-IEEE International Conference on Distributed Computing Systems (ICDCS) as the student volunteer
+## Student Volunteer
+IEEE International Conference on Distributed Computing Systems (ICDCS) as the student volunteer, July 2023   
 
-## May 2022   
-IEEE International Conference on Computer Communications (INFOCOM) as the student volunteer
+IEEE International Conference on Computer Communications (INFOCOM) as the student volunteer, May 2022 
+  
+GMIC - Global Mobile Internet Conference as the student volunteer, April 2017 
 
-## Apr 2017   
-GMIC - Global Mobile Internet Conference as the student volunteer
-
-## Apr 2016  
-GMIC - Global Mobile Internet Conference as the student volunteer
+GMIC - Global Mobile Internet Conference as the student volunteer, April 2016 
  
-## Apr 2016   
-International Youth Innovation Design Competition China District Rematch as the student volunteer
+International Youth Innovation Design Competition China District Rematch as the student volunteer, April 2016  
 
 
 
