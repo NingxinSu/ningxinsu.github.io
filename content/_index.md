@@ -25,7 +25,7 @@ I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical an
 
 #### Conference Papers
 
-**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “Titanic: Towards Production Federated Learning with Large Language Models,” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, 2024. 
+**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “[Titanic: Towards Production Federated Learning with Large Language Models](/assets/infocom24.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, 2024. 
 
 Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of *ACM Turing Award Celebration Conference (TURC)*, Wuhan, China, July, 2023. 
 
