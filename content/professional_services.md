@@ -8,6 +8,12 @@ IEEE Transactions on Computational Social Systems
 
 IEEE Transactions on Cloud Computing    
 
+IEEE Transactions on Sensor Networks                
+
+IEEE Transactions on Network Science and Engineering                    
+
+
+
 ## Student Volunteer
 IEEE International Conference on Distributed Computing Systems (ICDCS) as the student volunteer, July 2023   
 
