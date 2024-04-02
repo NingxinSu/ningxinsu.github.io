@@ -36,11 +36,16 @@ summaryLength = 30
     # path = "/img/your-example-logo.svg"
     # alt = "Ningxin Su"
     [[menu.main]]
-        identifier = "Projects"
+        identifier = "Publications"
         weight = 1
-        name = "Projects"
-        url = "/projects"
+        name = "Publications"
+        url = "/publications"
     [menu]
+      [[menu.main]]
+        identifier = "Awards"
+        weight = 2
+        name = "Awards"
+        url = "/awards"
       [[menu.main]]
         identifier = "Teaching"
         weight = 2
@@ -51,8 +56,3 @@ summaryLength = 30
         weight = 3
         name = "Professional Services"
         url = "/professional_services"
-      [[menu.main]]
-        identifier = "About Me"
-        weight = 4
-        name = "About Me"
-        url = "/about"
