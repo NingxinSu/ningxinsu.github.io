@@ -2,6 +2,9 @@
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024.
 
 ## Reviewers
+
+IEEE Transactions on Dependable and Secure Computing (CCF A)
+
 ACM Transactions on Sensor Networks (CCF B)
 
 IEEE Transactions on Big Data (CCF C)
