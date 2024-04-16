@@ -1,3 +1,6 @@
+## Research Assistant
+City University of Hong Kong, June to August, 2023.
+
 ## Organizing Committee
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024.
 
