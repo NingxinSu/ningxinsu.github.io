@@ -40,7 +40,7 @@ While existing work on federated unlearning focused on improving its performance
 ## BibTeX
 ```
 @inproceedings{knot_su2023,    
-   author = {N. Su and B. Li},      
+   author = {Ningxin Su and Baochun Li},      
    journal = {Proc.~Int'l Conference on Computer Communications (INFOCOM)},     
    publisher = {IEEE},                 
    title = {Asynchronous Federated Unlearning},                

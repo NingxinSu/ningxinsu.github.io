@@ -12,7 +12,7 @@ As a practical paradigm designed to involve large numbers of edge devices in dis
 ## BibTeX
 ```
 @inproceedings{port_su2022,    
-   author = {N. Su and B. Li},      
+   author = {Ningxin Su and Baochun Li},      
    journal = {Proc.~Int'l Symposium on Quality of Service (IWQoS)},     
    publisher = {IEEE},                 
    title = {How Asynchronous can Federated Learning Be?},                
