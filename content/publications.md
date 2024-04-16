@@ -5,14 +5,16 @@
 
 #### Conference Papers
 
-Sijia Chen, **Ningxin Su**, Baochun Li. “Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning,” in the Proceedings of *IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2024
+Sijia Chen, **Ningxin Su**, Baochun Li. “Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning,” in the Proceedings of the *IEEE International Conference on Distributed Computing Systems (ICDCS)*, Jersey City, New Jersey, USA, July 23-26, 2024.
 
-**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “[Titanic: Towards Production Federated Learning with Large Language Models](/assets/infocom24.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, 2024. 
+Sijia Chen, **Ningxin Su**, Baochun Li. "Relic: Federated Conditional Textual Inversion with Prototype Alignment," in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)*,  Guangzhou, China, June 19–21, 2024.
 
-Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of *ACM Turing Award Celebration Conference (TURC)*, Wuhan, China, July, 2023. 
+**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “[Titanic: Towards Production Federated Learning with Large Language Models](/assets/infocom24.pdf),” in the Proceedings of the *IEEE International Conference on Computer Communications (INFOCOM)*, Vancouver, Canada, May 20 - 23, 2024.
 
-**Ningxin Su**, Baochun Li, Bo Li. “[Multi-Server Stable Rendezvous for the Metaverse](/assets/metacom23.pdf),” in the Proceedings of *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023 (**_Best Paper Award_**). [[Slides](/assets/metacom23_slides.pdf)]
+Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of the *ACM Turing Award Celebration Conference (TURC)*, Wuhan, China, July, 2023. 
 
-**Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Slides](/assets/infocom23_slides.pdf)][[Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
+**Ningxin Su**, Baochun Li, Bo Li. “[Multi-Server Stable Rendezvous for the Metaverse](/assets/metacom23.pdf),” in the Proceedings of the *IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*, Kyoto, Japan, June 26 – 28, 2023 (**_Best Paper Award_**). [[Slides](/assets/metacom23_slides.pdf)]
 
-**Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Slides](/assets/iwqos22_slides.pdf)] [[Code](https://github.com/TL-System/plato/tree/main/examples/port)]
+**Ningxin Su**, Baochun Li. “[Asynchronous Federated Unlearning](/assets/infocom23.pdf),” in the Proceedings of the *IEEE International Conference on Computer Communications (INFOCOM)*, New York, USA, May 17 – 20, 2023. [[Project](/projects/infocom23)][[Slides](/assets/infocom23_slides.pdf)][[Code](https://github.com/TL-System/plato/tree/main/examples/knot)]
+
+**Ningxin Su**, Baochun Li. “[How Asynchronous can Federated Learning Be?](/assets/iwqos22.pdf)” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Virtual Conference, June 10 – 12, 2022. [[Project](/projects/iwqos22)][[Slides](/assets/iwqos22_slides.pdf)] [[Code](https://github.com/TL-System/plato/tree/main/examples/port)]
