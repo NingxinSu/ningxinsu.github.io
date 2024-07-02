@@ -12,7 +12,8 @@ Sijia Chen, **Ningxin Su**, Baochun Li. “Calibre: Towards Fair and Accurate Pe
 
 Sijia Chen, **Ningxin Su**, Baochun Li. "[Relic: Federated Conditional Textual Inversion with Prototype Alignment](/assets/schen-iwqos24.pdf)," in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*,  Guangzhou, China, June 19–21, 2024. [[Slides](/assets/iwqos24_slides.pdf)]
 
-**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “[Titanic: Towards Production Federated Learning with Large Language Models](/assets/infocom24.pdf),” in the Proceedings of the *IEEE International Conference on Computer Communications (INFOCOM)*, Vancouver, Canada, May 20 - 23, 2024.
+**Ningxin Su**, Chenghao Hu, Baochun Li, Bo Li. “[Titanic: Towards Production Federated Learning with Large Language Models](/assets/infocom24.pdf),” in the Proceedings of the *IEEE International Conference on Computer Communications (INFOCOM)*, Vancouver, Canada, May 20 - 23, 2024. [[Slides](/assets/infocom24-slides.pdf)]
+
 
 Baochun Li, **Ningxin Su**, Chen Ying, Fei Wang. “[Plato: An Open-Source Research Framework for Production Federated Learning](/assets/turc23.pdf),” in the Proceedings of the *ACM Turing Award Celebration Conference (TURC)*, Wuhan, China, July, 2023. 
 
