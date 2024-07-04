@@ -16,7 +16,7 @@ Current location: Toronto, Canada
 
 I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in the [iQua research group](https://iqua.ece.toronto.edu/). I received my M.E. and B.E. degrees from [The University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research areas include the **metaverse**, **networking**, **distributed machine learning** and **federated learning**.
 
-[Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of May 2024.
+[Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of July 2024.
 
 
 ## About Me
