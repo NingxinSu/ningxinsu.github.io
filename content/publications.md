@@ -5,7 +5,7 @@
 
 #### Conference Papers
 
-**Ningxin Su**, Baochun Li, Bo Li. “Democratizing the Federation in Federated Learning” in the Proceedings of the *IEEE International Conference on
+**Ningxin Su**, Baochun Li, Bo Li. “Democratizing the Federation in Federated Learning,” in the Proceedings of the *IEEE International Conference on
 Mobile Ad-Hoc and Smart Systems (MASS)*, Seoul, South Korea, September 23-25, 2024.
 
 Sijia Chen, **Ningxin Su**, Baochun Li. “Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning,” in the Proceedings of the *IEEE International Conference on Distributed Computing Systems (ICDCS)*, Jersey City, New Jersey, USA, July 23-26, 2024. 
