@@ -1,4 +1,6 @@
 ## Research Assistant
+Hong Kong University of Science and Technology (HKUST), July to August, 2024
+
 City University of Hong Kong, June to August, 2023.
 
 ## Organizing Committee

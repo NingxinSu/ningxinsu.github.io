@@ -1,7 +1,7 @@
 ## Publications
 
 #### Journal Papers
-**Ningxin Su**, Baochun Li. “[MLOps in the Metaverse: Human-Centric Continuous Integration](https://ieeexplore.ieee.org/document/10379159),” in IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, September 2023.
+**Ningxin Su**, Baochun Li. “[MLOps in the Metaverse: Human-Centric Continuous Integration](https://ieeexplore.ieee.org/document/10379159),” in IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, 2024.
 
 #### Conference Papers
 

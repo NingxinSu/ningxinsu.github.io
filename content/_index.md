@@ -10,7 +10,7 @@ framed = true
 {{< /rawhtml >}}
 
 Contact info: ningxin.suATmail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/ningxin-su-b11460264/)   
-Current location: Toronto, Canada  
+Current location: Hong Kong, China  
 
 ## At a Glance
 
