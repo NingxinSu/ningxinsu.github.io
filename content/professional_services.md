@@ -7,6 +7,7 @@ City University of Hong Kong, June to August, 2023.
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024.
 
 ## Reviewers
+IEEE Transactions on Parallel and Distributed Systems (CCF A)
 
 IEEE Transactions on Dependable and Secure Computing (CCF A)
 
