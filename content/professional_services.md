@@ -13,6 +13,8 @@ IEEE Transactions on Dependable and Secure Computing (CCF A)
 
 ACM Transactions on Sensor Networks (CCF B)
 
+IEEE Transactions on Neural Networks and learning systems (CCF B)
+
 IEEE Transactions on Big Data (CCF C)
  
 IEEE Transactions on Computational Social Systems (CCF C)
