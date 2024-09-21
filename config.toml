@@ -15,7 +15,7 @@ summaryLength = 30
   showReadingTime = false
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     title = "Ningxin Su"
     subtitle = ""
     keywords = ""
