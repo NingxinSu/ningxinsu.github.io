@@ -1,3 +1,7 @@
+title = "Ningxin Su"
+subtitle = ""
+keywords = ""
+copyright = "Ningxin Su &copy; 2023"
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
@@ -16,10 +20,6 @@ summaryLength = 30
 
 [languages]
   [languages.en.params]
-    title = "Ningxin Su"
-    subtitle = ""
-    keywords = ""
-    copyright = "Ningxin Su &copy; 2023"
     menuMore = "More"
     writtenBy = "Written by"
     readMore = "Read more"
