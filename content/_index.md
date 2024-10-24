@@ -10,11 +10,13 @@ framed = true
 {{< /rawhtml >}}
 
 Contact info: ningxin.suATmail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/ningxin-su-b11460264/)   
-Current location: Hong Kong, China  
+Current location: Toronto, Canada 
+
+**I am entering the job market in Fall 2024 and anticipate graduating in Winter 2024 or early 2025. I am actively seeking post-doctoral scholar and full-time research positions. If our research interests align, I would be delighted to connect. Please feel free to reach out.**
 
 ## At a Glance
 
-I am currently a fourth-year Ph.D. Candidate in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in the [iQua research group](https://iqua.ece.toronto.edu/). I received my M.E. and B.E. degrees from [University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research areas include the **metaverse**, **networking**, **distributed machine learning** and **federated learning**.
+I am a fifth year Ph.D. Candidate in the [Department of Electrical and Computer Engineering](https://www.ece.toronto.edu), [University of Toronto](https://www.utoronto.ca), under the supervision of [Prof. Baochun Li](https://www.ece.utoronto.ca/people/li-b/) in the [iQua research group](https://iqua.ece.toronto.edu/). I received my M.E. and B.E. degrees from [University of Sheffield](https://www.sheffield.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020 and 2019, respectively. My research areas include the **metaverse**, **networking**, **distributed machine learning** and **federated learning**.
 
 [Ningxin's Curriculum Vitae](/assets/ningxin_cv.pdf) as of July 2024.
 
