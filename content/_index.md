@@ -4,15 +4,70 @@ framed = true
 +++
 
 {{< rawhtml >}}
-<center>
-<img src="/assets/ningxinsu.jpg" alt="Ningxin Su" width="70%" style="border-radius: 20px;" >
-</center>
+<style>
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.profile-image {
+    flex: 0 0 250px;
+}
+.profile-image img {
+    width: 100%;
+    border-radius: 30px;
+}
+.profile-info {
+    flex: 1;
+    padding-top: 20px;
+}
+.fa, .fas, .fab {
+    padding-right: 5px;
+    color: #555;
+    font-size: 16px;
+    width: 20px;
+    text-align: center;
+}
+</style>
+
+<!-- Update Font Awesome to version 6 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<div class="profile-container" style="display: flex;">
+    <div class="profile-image">
+        <img src="/assets/ningxinsu3.jpg" alt="Profile Photo">
+        <br />
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+            <a href="mailto:ningxin.su@mail.utoronto.ca" style="display: flex; align-items: center; margin-right: 10px; text-decoration: none;">
+                <i class="fas fa-envelope"></i>
+            </a>
+            <a href="https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en" style="display: flex; align-items: center; margin-right: 10px; text-decoration: none;">
+                <i class="fas fa-graduation-cap"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/ningxin-su-b11460264/" style="display: flex; align-items: center; margin-right: 10px; text-decoration: none;">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="https://github.com/NingxinSu" style="display: flex; align-items: center; margin-right: 10px; text-decoration: none;">
+                <i class="fab fa-github"></i>
+            </a>
+            <br />
+            <a style="display: flex; align-items: center; text-decoration: none;">
+            <i class="fas fa-location-dot"></i>
+            <span>Toronto, CA</span>
+            </a>
+        </div>
+    </div>
+    <div class="profile-info" style="flex-grow: 1; text-align: justify; margin-left: 20px;">
+        <p style="font-weight: bold; color: firebrick;">
+            I am entering the job market in Fall 2024 and anticipate graduating in early 2025. I am actively seeking post-doctoral scholar and full-time research positions. If our research interests align, I would be delighted to connect. Please feel free to reach out.
+        </p>
+    </div>
+</div>
 {{< /rawhtml >}}
 
-Contact info: ningxin.suATmail.utoronto.ca &middot; [Google Scholar](https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en) &middot; [LinkedIn](https://www.linkedin.com/in/ningxin-su-b11460264/)   
-Current location: Toronto, Canada 
 
-**I am entering the job market in Fall 2024 and anticipate graduating in Winter 2024 or early 2025. I am actively seeking post-doctoral scholar and full-time research positions. If our research interests align, I would be delighted to connect. Please feel free to reach out.**
 
 ## At a Glance
 
