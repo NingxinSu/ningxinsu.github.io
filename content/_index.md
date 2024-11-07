@@ -61,7 +61,7 @@ framed = true
     </div>
     <div class="profile-info" style="flex-grow: 1; text-align: justify; margin-left: 20px;">
         <p style="font-weight: bold; color: firebrick;">
-            I am entering the job market in Fall 2024 and anticipate graduating in early 2025. I am actively seeking post-doctoral scholar and full-time research positions. If our research interests align, I would be delighted to connect. Please feel free to reach out.
+            I am entering the job market in Fall 2024 and anticipate graduating in early 2025. I am actively seeking a tenure-track faculty positions. If our research interests align, I would be delighted to connect. Please feel free to reach out.
         </p>
     </div>
 </div>
