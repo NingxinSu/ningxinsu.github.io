@@ -5,7 +5,7 @@ copyright = "Ningxin Su &copy; 2023"
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
-pagination.pagerSize = 5
+paginate = 5
 summaryLength = 30
 
 [params]
