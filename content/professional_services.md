@@ -1,10 +1,7 @@
-## Research Assistant
-Hong Kong University of Science and Technology (HKUST), July to August, 2024 
-
-City University of Hong Kong, June to August, 2023.
-
 ## Organizing Committee
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024 and 2025.
+
+**Artifacts Evaluation Committee Member** , ACM/IFIP International Middleware Conference (Middleware), 2024
 
 ## Reviewers
 IEEE/ACM Transactions on Networking (CCF A)
