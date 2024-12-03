@@ -82,7 +82,7 @@ p a:hover {
         I am currently a Ph.D. candidate in the <a href="https://www.ece.toronto.edu" class="no-underline">Department of Electrical and Computer Engineering</a> at the <a href="https://www.utoronto.ca" class="no-underline">University of Toronto</a> supervised by <a href="https://www.ece.toronto.ca/people/li-b/" class="no-underline">Prof. Baochun Li</a>, and I expect to complete my Ph.D. degree requirements by Spring 2025. My research interests have focused on distributed machine learning and federated learning, especially the training of Large Language Models in today's edge computing and metaverse environments. I am passionate about continuing my work in these exciting yet inter-disciplinary areas of research, <strong>straddling distributed systems</strong>, <strong>edge computing</strong>, and <strong>machine learning</strong>.
         </p>
         <p>
-        <a href="/assets/ningxin_cv.pdf"style="text-decoration: none;">Ningxin's Curriculum Vitae </a>as of November 2024. 
+        <a href="/assets/ningxin_cv.pdf"style="text-decoration: none;">Ningxin's Curriculum Vitae </a>as of December 2024. 
         </p>
     </div>
 </div>
