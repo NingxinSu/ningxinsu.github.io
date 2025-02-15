@@ -8,5 +8,5 @@ ECE1724 F1 – Performant Software Systems with Rust
 APS105 – Computer Fundamentals (in C programming language): Tutorial TA
 
 ## Fall 2016 
-Volunteer teacher at Beijing Pingxifu Hongli Primary School (math, physics and music)
+Volunteer teacher at Beijing Pingxifu Hongli Primary School (mathematics, physics and music)
 
