@@ -11,7 +11,7 @@ The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020-2024
 
 Third Place in 31st **National Physics Olympiad**, China, 2014
 
-Third Place in 13th **RoboRAVE International Robotics Education and Competitions** (High School Division), Albuquerque, New Mexico, USA, 2014
+Third Place in 13th [**RoboRAVE International Robotics Education and Competitions**](https://www.roborave.org/) (High School Division), Albuquerque, New Mexico, USA, 2014
 
 **First Place** in 29th National Youth Science and Technology Innovation Competition, China, 2014
 
