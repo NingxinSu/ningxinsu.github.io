@@ -15,6 +15,6 @@ Third Place in **International Robotovate Challenge**, USA, 2014
 
 **First Place** in 29th National Youth Science and Technology Innovation Competition, China, 2014
 
-First Place in National **Robot Super Track Competition** in 8th CTEA Cup, Hong Kong, China, 2013
+First Place in National **Robot Super Track Competition** in 8th CTEA Cup, China, 2013
 
 First Place in 13th Chinese Adolescent **Robot Competition** (Shanxi Division), Shanxi, China, 2013
