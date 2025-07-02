@@ -81,9 +81,9 @@ p a:hover {
         <p>
         I am a tenure-track Assistant Professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/" class="no-underline"> IoT Thrust</a>, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). I received my Ph.D. degree from the ECE, University of Toronto, supervised by <a href="https://www.ece.toronto.ca/people/li-b/" class="no-underline">Prof. Baochun Li</a>. My research interests have focused on distributed machine learning and federated learning, especially the training of Large Language Models in today's edge computing and metaverse environments. I am passionate about continuing my work in these exciting yet inter-disciplinary areas of research, <strong>embodied AI with multi-agent systems</strong> and <strong>straddling distributed systems</strong>.
         </p>
-        <p>
+        <!-- <p>
         <a href="/assets/ningxin_cv.pdf"style="text-decoration: none;">Ningxin's Curriculum Vitae </a>as of December 2024. 
-        </p>
+        </p> -->
     </div>
 </div>
 
