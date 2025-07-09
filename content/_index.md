@@ -63,7 +63,7 @@ p a:hover {
         <img src="/assets/ningxinsu3.jpg" alt="Profile Photo">
         <br />
         <div class="icon-container">
-            <a href="mailto:ningxin.su@mail.utoronto.ca">
+            <a href="mailto:ningxinsu@hkust-gz.edu.cn">
                 <i class="fas fa-envelope"></i>
             </a>
             <a href="https://scholar.google.ca/citations?user=XkeT3_8AAAAJ&hl=en">
@@ -79,7 +79,7 @@ p a:hover {
     </div>
     <div class="profile-info" style="flex-grow: 1; text-align: justify; margin-left: 20px;">
         <p>
-        I am a tenure-track Assistant Professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/" class="no-underline"> IoT Thrust</a>, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). I received my Ph.D. degree from the ECE, University of Toronto, supervised by <a href="https://www.ece.toronto.ca/people/li-b/" class="no-underline">Prof. Baochun Li</a>. My research interests have focused on distributed machine learning and federated learning, especially the training of Large Language Models in today's edge computing and metaverse environments. I am passionate about continuing my work in these exciting yet inter-disciplinary areas of research, <strong>embodied AI with multi-agent systems</strong> and <strong>straddling distributed systems</strong>.
+        I am a tenure-track Assistant Professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/" class="no-underline"> IoT Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou)</a>. I received my Ph.D. degree from the ECE, University of Toronto, supervised by <a href="https://www.ece.toronto.ca/people/li-b/" class="no-underline">Prof. Baochun Li</a>. My research interests have focused on distributed machine learning and federated learning, especially the training of Large Language Models in today's edge computing and metaverse environments. I am passionate about continuing my work in these exciting yet inter-disciplinary areas of research, <strong>embodied AI with multi-agent systems</strong> and <strong>straddling distributed systems</strong>.
         </p>
         <!-- <p>
         <a href="/assets/ningxin_cv.pdf"style="text-decoration: none;">Ningxin's Curriculum Vitae </a>as of December 2024. 
