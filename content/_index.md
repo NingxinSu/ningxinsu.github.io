@@ -12,19 +12,24 @@ framed = true
     max-width: 800px;
     margin: 0 auto;
 }
+
 .profile-image {
     flex: 0 0 150px;
     text-align: center;
 }
+
 .profile-image img {
     width: 100%;
     border-radius: 30px;
     display: inline-block;
 }
+
 .profile-info {
     flex: 1;
     padding-top: 20px;
+    text-align: justify;
 }
+
 .fa, .fas, .fab {
     padding-right: 5px;
     color: #555;
@@ -32,26 +37,58 @@ framed = true
     width: 20px;
     text-align: center;
 }
+
 .no-underline {
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none;
 }
 
 p a {
-    color: #6C8EBF; /* Change hyperlink color to #6C8EBF only for links in paragraphs */
+    color: #6C8EBF;
 }
 
 p a:hover {
-    color: #5A7DAF; /* Optional: Change color on hover for better visibility */
+    color: #5A7DAF;
 }
+
 .icon-container {
     display: flex;
     justify-content: space-between;
     width: 100%;
     margin-top: 10px;
 }
+
 .icon-container a {
     flex: 1;
     text-align: center;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .profile-image {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 200px; /* Allow scaling up to 200px on mobile */
+  }
+
+  .profile-image img {
+    width: 100%;
+    height: auto;
+  }
+
+  .profile-info {
+    flex: 0 0 auto;
+    padding-top: 0;
+    width: 100%;
+    text-align: left;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
 }
 </style>
 
