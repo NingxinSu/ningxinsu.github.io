@@ -1,7 +1,11 @@
 ## Organizing Committee
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024 and 2025.
 
-**Artifacts Evaluation Committee Member** , ACM/IFIP International Middleware Conference (Middleware), 2024
+**Artifacts Evaluation Committee Member**, ACM/IFIP International Middleware Conference (Middleware), 2024
+
+**Session TPC**, IEEE International Conference on Parallel and Distributed Systems (ICPADS)
+
+**PC Chair**, The ACM Web Conference (WWW)
 
 ## Reviewers
 IEEE/ACM Transactions on Networking (CCF A)
