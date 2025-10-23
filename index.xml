@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ningxin Su</title><link>/</link><description>Recent content on Ningxin Su</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Ningxin Su&amp;copy;</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Asynchronous Federated Unlearning</title><link>/projects/infocom23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/infocom23/</guid><description>
-&lt;p>&lt;strong>Ningxin Su&lt;/strong>, Baochun Li, University of Toronto, &lt;br>
-&lt;em>IEEE International Conference on Computer Communications (INFOCOM) 2023&lt;/em> &lt;br>
-[&lt;a href="/assets/infocom23.pdf">Paper&lt;/a>] [&lt;a href="/assets/infocom23_slides.pdf">Slides&lt;/a>] [&lt;a href="https://github.com/TL-System/plato/tree/main/examples/knot">Source Code&lt;/a>]&lt;/p>
-&lt;p>Thanks to regulatory policies such as the General Data Protection Regulation (GDPR), it is essential to provide users with the &lt;em>right to erasure&lt;/em> regarding their own private data, even if such data has been used to train a neural network model. Such a &lt;em>machine unlearning&lt;/em> problem becomes even more challenging in the context of federated learning. where clients collaborate to train a global model with their private data. When a client requests that its data be erased, its effects have already gradually permeated through a large number of clients, as the server aggregates client updates over multiple communication rounds. Thus, erasing data samples from one client requires a large number of clients to engage in a retraining process.&lt;/p></description></item><item><title>How Asynchronous can Federated Learning Be?</title><link>/projects/iwqos22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/iwqos22/</guid><description>
-&lt;p>&lt;strong>Ningxin Su&lt;/strong>, Baochun Li, University of Toronto, &lt;br>
-&lt;em>IEEE International Symposium on Quality of Service (IWQoS) 2022&lt;/em> &lt;br>
-[&lt;a href="/assets/iwqos22.pdf">Paper&lt;/a>] [&lt;a href="/assets/port_slides.pdf">Slides&lt;/a>] [&lt;a href="https://github.com/TL-System/plato/tree/main/examples/port">Source Code&lt;/a>]&lt;/p>
-&lt;p>As a practical paradigm designed to involve large numbers of edge devices in distributed training of deep learning models, federated learning has witnessed a significant amount of research attention in the recent years. Yet, most existing mechanisms on federated learning assumed either fully synchronous or asynchronous communication strategies between clients and the federated learning server. Existing designs that were partially asynchronous in their communication were simple heuristics, and were evaluated using the number of communication rounds or updates required for convergence, rather than the wall-clock time in practice.&lt;/p></description></item><item><title/><link>/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/awards/</guid><description>
-&lt;h2 id="awards">
+&lt;p&gt;&lt;strong&gt;Ningxin Su&lt;/strong&gt;, Baochun Li, University of Toronto, &lt;br&gt;
+&lt;em&gt;IEEE International Conference on Computer Communications (INFOCOM) 2023&lt;/em&gt; &lt;br&gt;
+[&lt;a href="/assets/infocom23.pdf"&gt;Paper&lt;/a&gt;] [&lt;a href="/assets/infocom23_slides.pdf"&gt;Slides&lt;/a&gt;] [&lt;a href="https://github.com/TL-System/plato/tree/main/examples/knot"&gt;Source Code&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Thanks to regulatory policies such as the General Data Protection Regulation (GDPR), it is essential to provide users with the &lt;em&gt;right to erasure&lt;/em&gt; regarding their own private data, even if such data has been used to train a neural network model. Such a &lt;em&gt;machine unlearning&lt;/em&gt; problem becomes even more challenging in the context of federated learning. where clients collaborate to train a global model with their private data. When a client requests that its data be erased, its effects have already gradually permeated through a large number of clients, as the server aggregates client updates over multiple communication rounds. Thus, erasing data samples from one client requires a large number of clients to engage in a retraining process.&lt;/p&gt;</description></item><item><title>How Asynchronous can Federated Learning Be?</title><link>/projects/iwqos22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/iwqos22/</guid><description>
+&lt;p&gt;&lt;strong&gt;Ningxin Su&lt;/strong&gt;, Baochun Li, University of Toronto, &lt;br&gt;
+&lt;em&gt;IEEE International Symposium on Quality of Service (IWQoS) 2022&lt;/em&gt; &lt;br&gt;
+[&lt;a href="/assets/iwqos22.pdf"&gt;Paper&lt;/a&gt;] [&lt;a href="/assets/port_slides.pdf"&gt;Slides&lt;/a&gt;] [&lt;a href="https://github.com/TL-System/plato/tree/main/examples/port"&gt;Source Code&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;As a practical paradigm designed to involve large numbers of edge devices in distributed training of deep learning models, federated learning has witnessed a significant amount of research attention in the recent years. Yet, most existing mechanisms on federated learning assumed either fully synchronous or asynchronous communication strategies between clients and the federated learning server. Existing designs that were partially asynchronous in their communication were simple heuristics, and were evaluated using the number of communication rounds or updates required for convergence, rather than the wall-clock time in practice.&lt;/p&gt;</description></item><item><title/><link>/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/awards/</guid><description>
+&lt;h2 id="awards"&gt;
 Awards
-&lt;a href="#awards" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;p>Department of Doctoral Completion Award, University of Toronto, 2024&lt;/p>
-&lt;p>School of Graduate Studies (SGS) Conference Grant, University of Toronto, 2024&lt;/p>
-&lt;p>IEEE INFOCOM Student Travel Grant, 2024&lt;/p></description></item><item><title/><link>/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bio/</guid><description/></item><item><title/><link>/nsu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/nsu/</guid><description>
-&lt;p>Ningxin Su is currently a third-year Ph.D. candidate in the &lt;a href="https://www.eecg.utoronto.ca/">Computer Engineering&lt;/a> group, &lt;a href="https://www.ece.toronto.edu">Department of Electrical and Computer Engineering&lt;/a>, &lt;a href="https://www.utoronto.ca">University of Toronto&lt;/a>. She received her M.E. Degree and B.E. Degree from &lt;a href="https://www.sheffield.ac.uk/">The University of Sheffield&lt;/a> and &lt;a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications&lt;/a> in 2020 and 2019, respectively.&lt;/p></description></item><item><title/><link>/professional_services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/professional_services/</guid><description>
-&lt;h2 id="organizing-committee">
+&lt;a href="#awards" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Department of Doctoral Completion Award, University of Toronto, 2024&lt;/p&gt;
+&lt;p&gt;School of Graduate Studies (SGS) Conference Grant, University of Toronto, 2024&lt;/p&gt;
+&lt;p&gt;IEEE INFOCOM Student Travel Grant, 2024&lt;/p&gt;</description></item><item><title/><link>/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bio/</guid><description/></item><item><title/><link>/nsu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/nsu/</guid><description>
+&lt;p&gt;Ningxin Su is currently a third-year Ph.D. candidate in the &lt;a href="https://www.eecg.utoronto.ca/"&gt;Computer Engineering&lt;/a&gt; group, &lt;a href="https://www.ece.toronto.edu"&gt;Department of Electrical and Computer Engineering&lt;/a&gt;, &lt;a href="https://www.utoronto.ca"&gt;University of Toronto&lt;/a&gt;. She received her M.E. Degree and B.E. Degree from &lt;a href="https://www.sheffield.ac.uk/"&gt;The University of Sheffield&lt;/a&gt; and &lt;a href="https://www.bupt.edu.cn/"&gt;Beijing University of Posts and Telecommunications&lt;/a&gt; in 2020 and 2019, respectively.&lt;/p&gt;</description></item><item><title/><link>/professional_services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/professional_services/</guid><description>
+&lt;h2 id="organizing-committee"&gt;
 Organizing Committee
-&lt;a href="#organizing-committee" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;p>&lt;strong>Web Chair&lt;/strong>, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024 and 2025.&lt;/p>
-&lt;p>&lt;strong>Artifacts Evaluation Committee Member&lt;/strong> , ACM/IFIP International Middleware Conference (Middleware), 2024&lt;/p></description></item><item><title/><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>
-&lt;h2 id="publications">
+&lt;a href="#organizing-committee" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Web Chair&lt;/strong&gt;, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), 2024 and 2025.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artifacts Evaluation Committee Member&lt;/strong&gt;, ACM/IFIP International Middleware Conference (Middleware), 2024&lt;/p&gt;</description></item><item><title/><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>
+&lt;h2 id="publications"&gt;
 Publications
-&lt;a href="#publications" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;h4 id="journal-papers">
+&lt;a href="#publications" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h4 id="journal-papers"&gt;
 Journal Papers
-&lt;a href="#journal-papers" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>&lt;strong>Ningxin Su&lt;/strong>, Baochun Li. “&lt;a href="https://ieeexplore.ieee.org/document/10379159">MLOps in the Metaverse: Human-Centric Continuous Integration&lt;/a>,” in IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, 2024.&lt;/p></description></item><item><title/><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>
-&lt;h2 id="winter-2025">
+&lt;a href="#journal-papers" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Ningxin Su&lt;/strong&gt;, Baochun Li. “&lt;a href="https://ieeexplore.ieee.org/document/10379159"&gt;MLOps in the Metaverse: Human-Centric Continuous Integration&lt;/a&gt;,” in IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks, 2024.&lt;/p&gt;</description></item><item><title/><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>
+&lt;h2 id="winter-2025"&gt;
 Winter 2025
-&lt;a href="#winter-2025" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;p>ECE1724 S2 – Advanced Web Development: React Ecosystem and Modern Frameworks: General TA&lt;/p>
-&lt;h2 id="fall-2024">
+&lt;a href="#winter-2025" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;ECE1724 S2 – Advanced Web Development: React Ecosystem and Modern Frameworks: General TA&lt;/p&gt;
+&lt;h2 id="fall-2024"&gt;
 Fall 2024
-&lt;a href="#fall-2024" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;p>ECE1724 F1 – Performant Software Systems with Rust: General TA&lt;/p></description></item><item><title>About Me</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>
-&lt;p>Meet Ningxin Su (pronounced &amp;ldquo;Ning-shin Soo&amp;rdquo;, written as &amp;ldquo;苏宁馨&amp;rdquo; in Chinese characters) — a multi-faceted individual with a passion for the arts, sports, and knowledge. With experience conducting a large choir, drumming in a rock band, and teaching dance, Ningxin showcases a deep love for music and movement. As an accomplished long-distance runner, Ningxin is always eager to try new sports and physical challenges. Ningxin is also known for managing large-scale teams, bringing people together to create memorable experiences. In addition, Ningxin is an avid traveler, seeking out new museums, cultures, and natural wonders. Ningxin&amp;rsquo;s true passion, however, lies in the fields of &lt;strong>metaverse&lt;/strong> and &lt;strong>distributed machine learning&lt;/strong>, with a focus on &lt;strong>systems&lt;/strong>, &lt;strong>networking&lt;/strong> and &lt;strong>federated learning&lt;/strong>. Whether on stage or in the lab, Ningxin strives to constantly learn, grow, and push herself to new heights.&lt;/p></description></item><item><title>Archive</title><link>/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/archive/</guid><description/></item></channel></rss>
+&lt;a href="#fall-2024" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;ECE1724 F1 – Performant Software Systems with Rust: General TA&lt;/p&gt;</description></item><item><title>About Me</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>
+&lt;p&gt;Meet Ningxin Su (pronounced &amp;ldquo;Ning-shin Soo&amp;rdquo;, written as &amp;ldquo;苏宁馨&amp;rdquo; in Chinese characters) — a multi-faceted individual with a passion for the arts, sports, and knowledge. With experience conducting a large choir, drumming in a rock band, and teaching dance, Ningxin showcases a deep love for music and movement. As an accomplished long-distance runner, Ningxin is always eager to try new sports and physical challenges. Ningxin is also known for managing large-scale teams, bringing people together to create memorable experiences. In addition, Ningxin is an avid traveler, seeking out new museums, cultures, and natural wonders. Ningxin&amp;rsquo;s true passion, however, lies in the fields of &lt;strong&gt;metaverse&lt;/strong&gt; and &lt;strong&gt;distributed machine learning&lt;/strong&gt;, with a focus on &lt;strong&gt;systems&lt;/strong&gt;, &lt;strong&gt;networking&lt;/strong&gt; and &lt;strong&gt;federated learning&lt;/strong&gt;. Whether on stage or in the lab, Ningxin strives to constantly learn, grow, and push herself to new heights.&lt;/p&gt;</description></item><item><title>Archive</title><link>/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/archive/</guid><description/></item></channel></rss>
