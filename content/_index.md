@@ -97,7 +97,7 @@ p a:hover {
 
 <div class="profile-container" style="display: flex;">
     <div class="profile-image">
-        <img src="/assets/ningxinsu3.jpg" alt="Profile Photo">
+        <img src="/assets/ningxinsu4.jpg" alt="Profile Photo">
         <br />
         <div class="icon-container">
             <a href="mailto:ningxinsu@hkust-gz.edu.cn">
