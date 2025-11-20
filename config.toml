@@ -56,3 +56,8 @@ summaryLength = 30
         weight = 3
         name = "Professional Services"
         url = "/professional_services"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
