@@ -73,7 +73,7 @@ p a:hover {
   .profile-image {
     flex: 0 0 auto;
     width: 100%;
-    max-width: 120px; /* Allow scaling up to 200px on mobile */
+    max-width: 180px;
   }
 
   .profile-image img {
