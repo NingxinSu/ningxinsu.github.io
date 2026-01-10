@@ -1,3 +1,10 @@
+# HKUST(GZ)
+
+## Spring 2026
+IOTA 6910K - - Distributed and Federated Machine Learning, Rm 201, W2
+
+# University of Toronto
+
 ## Winter 2025
 ECE1724 S2 – Advanced Web Development: React Ecosystem and Modern Frameworks: General TA
 
