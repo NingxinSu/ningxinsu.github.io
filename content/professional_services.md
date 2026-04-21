@@ -24,17 +24,7 @@ IEEE Transactions on Dependable and Secure Computing (CCF A)
 
 IEEE Journal on Selected Areas in Communications (CCF A)
 
-ACM Transactions on Sensor Networks (CCF B)
-
-IEEE Transactions on Neural Networks and learning systems (CCF B)
-
-IEEE Transactions on Big Data (CCF C)
- 
-IEEE Transactions on Computational Social Systems (CCF C)
-
-IEEE Transactions on Cloud Computing (CCF C)
-
-IEEE Transactions on Network Science and Engineering                    
+...              
 
 
 
