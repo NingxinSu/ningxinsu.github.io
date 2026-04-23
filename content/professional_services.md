@@ -3,9 +3,7 @@
 
 **PC Chair**, ACM Web Conference (WWW 2026).
 
-**TPC Member**, ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc 2026).
-
-**Session TPC**, IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025).
+**TPC Member**, MobiHoc 2026, ICPADS 2025.
 
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2024 and 2025).
 
