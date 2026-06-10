@@ -4,13 +4,13 @@
 
 #### Journal Papers
 
-**Ningxin Su**, Baochun Li, Bo Li. “State of the Union: Towards Reproducible Performance Evaluations in Federated Learning,” in *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026.
+**Ningxin Su**, Baochun Li, Bo Li. “[State of the Union: Towards Reproducible Performance Evaluations in Federated Learning](/assets/ningxin-tkde26.pdf),” in *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026.
 
 **Ningxin Su**, Baochun Li. “[MLOps in the Metaverse: Human-Centric Continuous Integration](https://ieeexplore.ieee.org/document/10379159),” in *IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Human-Centric Communication and Networking for Metaverse over 5G and Beyond Networks*, 2024.
 
 #### Conference Papers
 
-<u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents,” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026.
+<u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](/assets/shuaijun-icml26.pdf),” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026.
 
 **Ningxin Su**, Freeman Cheng, Baochun Li. “Square: Towards Sharing Internet-Scale GPU Clouds Fairly and Efficiently,” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Istanbul, Türkiye, June 29–July 2, 2026.
 
