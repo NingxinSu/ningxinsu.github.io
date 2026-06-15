@@ -12,7 +12,7 @@
 
 <u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](/assets/shuaijun-icml26.pdf),” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026.
 
-**Ningxin Su**, Freeman Cheng, Baochun Li. “Square: Towards Sharing Internet-Scale GPU Clouds Fairly and Efficiently,” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Istanbul, Türkiye, June 29–July 2, 2026.
+**Ningxin Su**, <u>Freeman Cheng</u>, Baochun Li. “Square: Towards Sharing Internet-Scale GPU Clouds Fairly and Efficiently,” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Istanbul, Türkiye, June 29–July 2, 2026.
 
 Zeyuan Zuo, **Ningxin Su**, Baochun Li, Teng Zhang. “Towards Communication-Efficient Homomorphic Encryption in Federated Learning,” in the Proceedings of the *ACM Symposium on Cloud Computing (SoCC)*, Redmond, WA, November 20–22, 2024.
 
