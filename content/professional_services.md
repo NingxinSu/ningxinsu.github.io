@@ -3,7 +3,7 @@
 
 **PC Chair**, ACM Web Conference (WWW 2026).
 
-**TPC Member**, MobiHoc 2026, ICPADS 2025.
+**TPC Member**, MobiHoc 2026, MASS (Systems and Applications Track) 2026, ICPADS 2025.
 
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2024 and 2025).
 
@@ -19,8 +19,6 @@ IEEE Journal on Selected Areas in Communications (CCF A)
 IEEE Transactions on Parallel and Distributed Systems (CCF A)
 
 IEEE Transactions on Dependable and Secure Computing (CCF A)
-
-IEEE Journal on Selected Areas in Communications (CCF A)
 
 ...              
 
