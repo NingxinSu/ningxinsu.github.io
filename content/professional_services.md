@@ -1,5 +1,5 @@
 ## Organizing Committee
-**Organizing Committee Member** INFOCOM Workshop on Embodied Intelligence Networks (EIN, 2026).
+**Organizing Committee Member** INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026).
 
 **TPC Member**, ACM WWW 2026, ACM MobiHoc 2026, IEEE MASS (Systems and Applications Track) 2026, IEEE ICPADS 2025.
 
@@ -8,7 +8,7 @@
 **Artifacts Evaluation Committee Member**, ACM/IFIP International Middleware Conference (Middleware, 2024).
 
 ## Reviewers
-ICRA, IROS, INFOCOM...
+ICML, NeurIPS, INFOCOM, ICRA, IROS...
 
 IEEE/ACM Transactions on Networking (CCF A)
 
