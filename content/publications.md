@@ -13,7 +13,7 @@
 <u>Xingwei Chen</u>, <u>Shuaijun Liu</u>, <u>Feiyang You</u>, **Ningxin Su**<sup>*</sup>. “HeteroTac-Lift: Empirical Lift Admission via Heterogeneous Bilateral Tactile Servoing and Risk-Budgeted Compliance,”, in the Proceedings of the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Pittsburgh, PA, USA, September 27 - October 1, 2026.
 
 
-<u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](/assets/shuaijun-icml26.pdf),” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026. [[Code](https://nebulis-lab.com/BRACE/)]
+<u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](/assets/shuaijun-icml26.pdf),” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026. [[Website](https://nebulis-lab.com/BRACE/)]
 
 **Ningxin Su**, <u>Freeman Cheng</u>, Baochun Li. “[Square: Towards Sharing Internet-Scale GPU Clouds Fairly and Efficiently](/assets/iwqos26.pdf),” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Istanbul, Türkiye, June 29–July 2, 2026.
 
