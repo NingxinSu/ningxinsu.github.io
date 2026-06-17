@@ -14,7 +14,7 @@
 
 **Ningxin Su**, <u>Freeman Cheng</u>, Baochun Li. “[Square: Towards Sharing Internet-Scale GPU Clouds Fairly and Efficiently](/assets/iwqos26.pdf),” in the Proceedings of the *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Istanbul, Türkiye, June 29–July 2, 2026.
 
-Zeyuan Zuo, **Ningxin Su**, Baochun Li, Teng Zhang. “Towards Communication-Efficient Homomorphic Encryption in Federated Learning,” in the Proceedings of the *ACM Symposium on Cloud Computing (SoCC)*, Redmond, WA, November 20–22, 2024.
+Zeyuan Zuo, **Ningxin Su**, Baochun Li, Teng Zhang. “[Towards Communication-Efficient Homomorphic Encryption in Federated Learning](/assets/zeyuan_socc.pdf),” in the Proceedings of the *ACM Symposium on Cloud Computing (SoCC)*, Redmond, WA, November 20–22, 2024.
 
 **Ningxin Su**, Baochun Li, Bo Li. “[Democratizing the Federation in Federated Learning](/assets/mass24.pdf),” in the Proceedings of the *IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)*, Seoul, South Korea, September 23–25, 2024.
 
