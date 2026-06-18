@@ -1,7 +1,7 @@
 ## Organizing Committee
 **Organizing Committee Member** INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026).
 
-**TPC Member**, ACM WWW 2026, ACM MobiHoc 2026, IEEE MASS (Systems and Applications Track) 2026, IEEE ICPADS 2025.
+**TPC Member**, ACM WWW 2026, ACM MobiHoc 2026, IEEE MASS (Systems and Applications Track) 2026, IEEE ICPADS 2025, 2026.
 
 **Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2024 and 2025).
 
