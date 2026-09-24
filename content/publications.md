@@ -10,7 +10,13 @@
 
 #### Conference Papers
 
-<u>Xingwei Chen</u>, <u>Shuaijun Liu</u>, <u>Feiyang You</u>, **Ningxin Su**<sup>*</sup>. “HeteroTac-Lift: Empirical Lift Admission via Heterogeneous Bilateral Tactile Servoing and Risk-Budgeted Compliance,”, in the Proceedings of the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Pittsburgh, PA, USA, September 27-October 1, 2026.
+<u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Chengyu Wu</u>, <u>Shuyang Hao</u>, <u>Chenglong Zhang</u>, Jingyao Cai, <u>Xingwei Chen</u>, Li Sun, **Ningxin Su**<sup>*</sup>. “Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models,” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+Sijia Chen, **Ningxin Su**<sup>*</sup>. “Toward Efficient Reasoning of Large Language Models via Latent Concept-Pyramid Modeling,” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+Yaqi Zhang, Shuntian Yao, Niantai Qu, Runguo Chen, Hanyu Lai, **Ningxin Su**, Li Sun, Sen Su. “Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders,” in *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+<u>Xingwei Chen</u>, <u>Shuaijun Liu</u>, <u>Feiyang You</u>, **Ningxin Su**<sup>*</sup>. “[HeteroTac-Lift: Empirical Lift Admission via Heterogeneous Bilateral Tactile Servoing and Risk-Budgeted Compliance](/assets/xingwei-iros26.pdf),”, in the Proceedings of the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Pittsburgh, PA, USA, September 27-October 1, 2026.
 
 
 <u>Shuaijun Liu</u>, <u>Feiyang You</u>, <u>Xingwei Chen</u>, **Ningxin Su**<sup>*</sup>. “[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](/assets/shuaijun-icml26.pdf),” in the Proceedings of the *Forty-Third International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6–11, 2026. [[Website](https://nebulis-lab.com/BRACE/)]

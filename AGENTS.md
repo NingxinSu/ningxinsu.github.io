@@ -30,3 +30,8 @@
 ## Security & Configuration Tips
 - Avoid committing generated output (`public/`) or local editor artifacts.
 - Keep large assets (PDFs/images) in `content/assets/` and reference them from content.
+
+## Profile and Publication Preferences
+- Ningxin Su's publications page bolds Ningxin's name and underlines advised students' names. On September 25, 2026, Ningxin explicitly confirmed that Shuaijun Liu, Feiyang You, Chengyu Wu, Shuyang Hao, Chenglong Zhang, and Xingwei Chen are Ningxin's students.
+- On September 25, 2026, Ningxin reported three accepted NeurIPS 2026 papers: “Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models,” “Toward Efficient Reasoning of Large Language Models via Latent Concept-Pyramid Modeling,” and “Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders.” Titles and author order are recorded in `content/publications.md`; paper links are omitted for now as requested.
+- Ningxin confirmed corresponding authorship for the NeurIPS 2026 papers “Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models” and “Toward Efficient Reasoning of Large Language Models via Latent Concept-Pyramid Modeling”; mark Ningxin’s name with `<sup>*</sup>` in those entries. Ningxin is not a corresponding author of “Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders.”
