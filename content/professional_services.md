@@ -1,15 +1,30 @@
 ## Organizing Committee
-**Organizing Committee Member**, INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026, 2027).
 
-**Panellist**, “Agentic AI at the Wireless Edge” panel at IEEE MASS 2026.
+### 2027
 
-**TPC Member**, ACM WWW 2026, ACM MobiHoc 2026, IEEE MASS 2026, IEEE ICPADS 2025, 2026.
+**General Co-Chairs**, INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2027), Honolulu, Hawaii, USA.
 
-**Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2024 and 2025).
+### 2026
 
-**Artifacts Evaluation Committee Member**, ACM/IFIP International Middleware Conference (Middleware, 2024).
+**Panellist**, “Agentic AI at the Wireless Edge” panel at IEEE MASS 2026, Hong Kong SAR, China.
 
-**Session Chair**, IWQoS 2026.
+**TPC Member**, ACM WWW 2026, Dubai, United Arab Emirates; ACM MobiHoc 2026, Tokyo, Japan; IEEE MASS 2026, Hong Kong SAR, China; IEEE ICPADS 2026, Tokyo, Japan.
+
+**Organizing Committee Member**, INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026), Tokyo, Japan.
+
+**Session Chair**, IEEE/ACM IWQoS 2026, Istanbul, Türkiye; IEEE MASS 2026, Hong Kong SAR, China.
+
+### 2025
+
+**TPC Member**, IEEE ICPADS 2025, Hefei, China.
+
+**Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2025), Seoul, South Korea.
+
+### 2024
+
+**Web Chair**, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom, 2024), Hong Kong SAR, China.
+
+**Artifacts Evaluation Committee Member**, ACM/IFIP International Middleware Conference (Middleware, 2024), Hong Kong SAR, China.
 
 ## Reviewers
 ICRL, ICML, NeurIPS, INFOCOM, ICRA, IROS...
