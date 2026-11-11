@@ -1,5 +1,7 @@
 ## Organizing Committee
-**Organizing Committee Member**, INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026).
+**Organizing Committee Member**, INFOCOM Workshop on Embodied Intelligence Networks (INFOCOM EIN Workshop, 2026, 2027).
+
+**Panellist**, “Agentic AI at the Wireless Edge” panel at IEEE MASS 2026.
 
 **TPC Member**, ACM WWW 2026, ACM MobiHoc 2026, IEEE MASS 2026, IEEE ICPADS 2025, 2026.
 
